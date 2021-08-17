@@ -1,0 +1,5 @@
+cutecom
+iptux
+devhelp
+glade
+libreoffice
